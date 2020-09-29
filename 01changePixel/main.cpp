@@ -19,5 +19,6 @@ int main()
 		}
 	}
 	imshow("src", srcMat);
-	waitKey(10000);
+	waitKey(0);
+	return 0;
 }
